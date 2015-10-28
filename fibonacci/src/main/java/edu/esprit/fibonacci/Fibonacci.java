@@ -2,7 +2,7 @@ package edu.esprit.fibonacci;
 
 public class Fibonacci {
  
- 	public String var;
+ 	public String var1;
 	//Hello this is the new added code after the push 
 	//now we will see if github will detect the difference 
 	public String sayHello(String nom){
